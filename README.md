@@ -11,6 +11,6 @@ A simplified and personalized version of the game _Micro Machines_ developed usi
 Authors:
 - [Marta Cruz](https://github.com/rbouru)
 - [Margarida Ferreira](https://github.com/Marghrid)
-- [Duarte Teles](https://github.com/Slliss)
+- [Duarte Teles](https://github.com/DuarteTeles)
 
 November 2017
